@@ -32,7 +32,7 @@ const background = {
 const divider = "#E6E8F0";
 
 const primary = {
-	main: "#FF0BA0F7",
+	main: "#207ffa",
 	deep: "#026034",
 	light: "#EBFDF2",
 	dark: "#1c6641",
